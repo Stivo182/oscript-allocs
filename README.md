@@ -2,7 +2,7 @@
 
 [![Release](https://img.shields.io/github/release/Stivo182/oscript-allocs.svg)](https://github.com/Stivo182/oscript-allocs/releases)
 [![Тестирование](https://github.com/Stivo182/oscript-allocs/actions/workflows/test.yml/badge.svg)](https://github.com/Stivo182/oscript-allocs/actions/workflows/test.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Used by](https://litrosbadges.ru/package/allocs.svg)](https://litrosbadges.ru/package/allocs)
 
 `allocs` — Инструмент для мониторинга потребления управляемой памяти в скриптах на платформе OneScript.
 
