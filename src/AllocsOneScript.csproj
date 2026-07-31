@@ -4,7 +4,7 @@
 		<TargetFrameworks>net48;net8.0;</TargetFrameworks>
 		<LangVersion>10.0</LangVersion>
 		<PackageProjectUrl>https://github.com/Stivo182/oscript-allocs</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/Stivo182/oscript-alloc</RepositoryUrl>
+		<RepositoryUrl>https://github.com/Stivo182/oscript-allocs</RepositoryUrl>
 		<Title>Allocs for OneScript</Title>
 		<Company>Stivo182</Company>
 		<Copyright>Stivo182</Copyright>
